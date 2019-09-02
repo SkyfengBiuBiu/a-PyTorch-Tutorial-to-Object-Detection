@@ -1,4 +1,5 @@
 This is implemented on https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Object-Detection
+
 Following the instruction of “PyTorch Tutorial to Object Detection”, we could build the working environment. Besides those, some codes are added or modified for more functions.
 
 The main idea of this project is to create the "demo.py" through modifying the "detect.py". By using the tracking method in “pytorch-detect-to-track” to link the frame, we could achieve our aim of tracking the objects with SSD detector.
